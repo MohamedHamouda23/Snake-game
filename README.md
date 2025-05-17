@@ -1,8 +1,22 @@
- # POP Raylib starter
+📚 About This Project
 
-Simple starter application for POP C assignment.
+This project was originally developed as part of a university assignment at the University of the West of England (UWE) 🏫 and is now shared as part of my personal portfolio and resume.
 
-Please see materials on Blackboard for more details.
+🛠️ It's here to showcase my work and to help others learn — you're welcome to explore the structure, coding style, and problem-solving approach for educational purposes.
+
+🧩 Note: The browser HTML and CSS template was provided by the university. I was responsible only for the game creation and core logic development.
+
+🚫 Please don’t copy or submit it as your own — that would go against academic integrity policies and could be considered plagiarism.
+
+👍 Feel free to use it for inspiration, learn from it, and use what you learn to build something even better!
+
+<br>
+<br>
+ 
+ # POP Raylib Game
+
+Simple starter application for  C assignment
+
 
 # Building
 
