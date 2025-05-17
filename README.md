@@ -13,27 +13,27 @@ This project was originally developed as part of a university assignment at the 
 <br>
 <br>
  
- # POP Raylib Game
+ # 🎮 POP Raylib Game
 
-Simple starter application for  C assignment
+🧩 Simple starter application for  C assignment
 
-## Screenshots:
+## 📸 Screenshots:
 
-### Main Menu
+### 🏠 Main Menu
 ![Menu Screen](assets/Main_Menu.png)
 
-### Gameplay
+### 🕹️ Gameplay
 ![Gameplay Screen](assets/Gameplay.png)
 
-### Game Over Menu
+### ❌ Game Over Menu
 ![Game Over Screen](assets/Game_Over_Menu.png)
 
-### Options 
+### ⚙️ Options 
 ![Options Screen](assets/Options.png)
 
 
 
-# Building
+# 🛠️ Building
 
 To build run the command:
 
@@ -41,10 +41,10 @@ To build run the command:
 /opt/pop/bin/build-wasm.sh src/main.c
 ```
 
-This will generate a directory *out* with the WASM and index.html files for the 
+📁 This will generate a directory *out* with the WASM and index.html files for the 
 Raylib program.
 
-# Running
+# 🚀 Running
 
 The very first time you run a POP WASM application you must run the command:
 
@@ -52,14 +52,14 @@ The very first time you run a POP WASM application you must run the command:
 /opt/pop/bin/allocate_port.sh
 ```
 
-You might need to start a new terminal instance for the update to take effect.
+💡 You might need to start a new terminal instance for the update to take effect.
 To check that everything is fine run the command:
 
 ```bash
 echo $MY_PORT
 ```
 
-This should output a 5 digit number.
+🔢 This should output a 5 digit number.
 
 
 To run the Raylib program in *out* simply run the command:
@@ -68,7 +68,7 @@ To run the Raylib program in *out* simply run the command:
 /opt/pop/bin/run-wasm.sh
 ```
 
-This will run a web server that serves the *out* on the port you allocated above. This is forwarded from the 
+🌐 This will run a web server that serves the *out* on the port you allocated above. This is forwarded from the 
 remote server to your local machine, which means you can simply open the corresponding web page within a browser 
 on your local machine using the address:
 
@@ -76,4 +76,4 @@ on your local machine using the address:
 localhost:XXXXX
 ```
 
-where *XXXXX* is the port number you allocated above.
+🧭 where *XXXXX* is the port number you allocated above.
