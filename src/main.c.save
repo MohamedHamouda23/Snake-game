@@ -1,0 +1,42 @@
+
+#include "raylib.h"
+
+int main(void)
+{
+    // Initialize window
+    const int screenWidth = 800;
+    const int screenHeight = 600;
+    InitWindow(screenWidth, screenHeight, "Simple Raylib Example");
+
+    // Define variables for circle position and speed
+    Vector2 circlePosition = { 100.0f, 100.0f };
+    float circleSpeed = 200.0f;
+
+    // Set the frame rate
+    SetTargetFPS(60);
+
+    // Main game loop
+    while (!WindowShouldClose())
+    {
+        // Update
+        if (IsKeyDown(KEY_RIGHT)) circlePosition.x += circleSpeed * GetFrameTime();
+        if (IsKeyDown(KEY_LEFT)) circlePosition.x -= circleSpeed * GetFrameTime();
+        if (IsKeyDown(KEY_DOWN)) circlePosition.y += circleSpeed * GetFrameTime();
+        if (IsKeyDown(KEY_UP)) circlePosition.y -= circleSpeed * GetFrameTime();
+
+        // Draw
+        BeginDrawing();
+        ClearBackground(RAYWHITE);
+
+        DrawCircleV(circlePosition, 50, BLUE);
+
+
+
+        EndDrawing();
+    }
+
+    // Close window
+    CloseWindow();
+
+    return 0;
+}
