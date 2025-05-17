@@ -17,6 +17,17 @@ This project was originally developed as part of a university assignment at the 
 
 Simple starter application for  C assignment
 
+## Screenshots:
+
+
+### Main Menu
+
+### Gameplay
+
+### Game Over Menu
+
+### Options 
+
 
 # Building
 
