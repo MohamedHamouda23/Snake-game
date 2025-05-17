@@ -19,14 +19,18 @@ Simple starter application for  C assignment
 
 ## Screenshots:
 
-
 ### Main Menu
+![Menu Screen](website/assets/Availability.png)
 
 ### Gameplay
+![Gameplay Screen](website/assets/Booking.png)
 
 ### Game Over Menu
+![Game Over Screen](website/assets/Booking.png)
 
 ### Options 
+![Options Screen](website/assets/Booking.png)
+
 
 
 # Building
