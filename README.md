@@ -20,16 +20,16 @@ Simple starter application for  C assignment
 ## Screenshots:
 
 ### Main Menu
-![Menu Screen](website/assets/Availability.png)
+![Menu Screen](assets/Main_Menu.png)
 
 ### Gameplay
-![Gameplay Screen](website/assets/Booking.png)
+![Gameplay Screen](assets/Gameplay.png)
 
 ### Game Over Menu
-![Game Over Screen](website/assets/Booking.png)
+![Game Over Screen](assets/Game_Over_Menu.png)
 
 ### Options 
-![Options Screen](website/assets/Booking.png)
+![Options Screen](assets/Options.png)
 
 
 
