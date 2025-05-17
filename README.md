@@ -1,4 +1,4 @@
-📚 About This Project
+ # 📚 About This Project
 
 This project was originally developed as part of a university assignment at the University of the West of England (UWE) 🏫 and is now shared as part of my personal portfolio and resume.
 
