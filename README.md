@@ -29,6 +29,7 @@ This project was originally developed as part of a university assignment at the 
 * 📊 Score tracking with clear game over conditions  
 * 🎮 Responsive input handling for an engaging experience
 
+<br>
 
 ## 📸 Screenshots:
 
