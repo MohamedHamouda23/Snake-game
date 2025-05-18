@@ -29,6 +29,15 @@ This project was originally developed as part of a university assignment at the 
 * 📊 Score tracking with clear game over conditions  
 * 🎮 Responsive input handling for an engaging experience
 
+
+## 📋 **Requirements**
+
+- 🖥️ **C compiler** supporting C99 (e.g., `gcc`)  
+- 🎮 **Raylib library** installed (for graphics & audio)  
+- 🔗 **Link with:** `-lraylib -lm -ldl -lpthread -lrt -lX11`  
+- ⚙️ **OpenGL 3.3+** support & system audio enabled  
+
+
 <br>
 
 ## 📸 Screenshots:
