@@ -46,12 +46,14 @@ This project was originally developed as part of a university assignment at the 
 ![Options Screen](assets/Options.png)
 
 
+<br>
 
-
-**🔄 Clone this repository ⚠️ Important: You must clone this repository first before doing anything else!**
+**⚠️ Important: You must clone this repository first before doing anything else!**
+**🔄 Clone this repository**
 ```bash
 https://github.com/MohamedHamouda23/Word-games
 ```
+
 # 🛠️ Building
 
 To build run the command:
