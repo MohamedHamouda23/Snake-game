@@ -47,6 +47,11 @@ This project was originally developed as part of a university assignment at the 
 
 
 
+
+**🔄 Clone this repository ⚠️ Important: You must clone this repository first before doing anything else!**
+```bash
+https://github.com/MohamedHamouda23/Word-games
+```
 # 🛠️ Building
 
 To build run the command:
@@ -54,6 +59,7 @@ To build run the command:
 ```bash
 /opt/pop/bin/build-wasm.sh src/main.c
 ```
+
 
 📁 This will generate a directory *out* with the WASM and index.html files for the 
 Raylib program.
