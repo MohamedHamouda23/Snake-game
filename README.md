@@ -11,10 +11,24 @@ This project was originally developed as part of a university assignment at the 
 👍 Feel free to use it for inspiration, learn from it, and use what you learn to build something even better!
 
 <br>
- 
- # 🎮 POP Raylib Game
 
-🧩 Simple starter application for  C assignment
+# 🎮 POP Snake Raylib Game
+
+🧩 Simple starter application for a C assignment.
+
+## 🚀 Game Features
+
+* 🐍 Classic Snake gameplay with smooth controls  
+* 🎨 User can change the snake’s color dynamically  
+* 🍎 Snake grows longer each time it eats food, and its color changes accordingly  
+* 👀 Unique snake design with cool eyes and mouth for a fun look  
+* 🎨 Unique game board pattern that adds visual interest  
+* 🎨 Background visuals present in the menu for better aesthetics  
+* 🔊 Sound effects for eating food and collisions  
+* ⚠️ Collision detection with walls and the snake’s own body  
+* 📊 Score tracking with clear game over conditions  
+* 🎮 Responsive input handling for an engaging experience
+
 
 ## 📸 Screenshots:
 
